@@ -110,7 +110,7 @@ function newsDetail() {
         </div>
 
         {{__comments__}}
-
+ 
       </div>
     </div>
   `;
